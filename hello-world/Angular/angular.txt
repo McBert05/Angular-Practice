@@ -1,0 +1,11 @@
+A component encapsulates the data, html template, and logic for a view
+A view is an area of a screen that a user sees
+A real world angular app is a essentially a tree of components starting from the root component of 
+
+Steps to create a component:
+1. Create a component
+2. Register it in a module
+3. Add and elemt in an HTML markup
+
+you can use this command to generate a new component in angular
+`ng g c nameOfComponent`
